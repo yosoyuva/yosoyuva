@@ -1,18 +1,15 @@
 ![Header](./github-header-image.png)
 
-<!--### Hi there 👋-->
+### :space_invader: &nbsp;About Me
 
-<!--
-**yosoyuva/yosoyuva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Studied at 42\
+&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
+&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving.\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Open for freelance mission as a fullstack dev.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://yuvamehdi.me"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<hr/>
