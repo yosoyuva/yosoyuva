@@ -1,9 +1,7 @@
 ![Header](./github-header-image.png)
 
 
-<center>
-### :space_invader: &nbsp;About Me
-</center>
+<h3 align="center">:space_invader: &nbsp;About Me</h3>
 
 <div align="center">&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Studied at 42</div>
 <div align="center">&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.</div>
