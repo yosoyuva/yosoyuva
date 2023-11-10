@@ -6,7 +6,7 @@
 <div align="center">&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Studied at 42</div>
 <div align="center">&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.</div>
 <div align="center">&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving.</div>
-<div align="center">&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Open for freelance mission as a fullstack dev.</div>
+<div align="center">&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Open for freelance mission as a backend dev.</div>
 
 <p align="center">
   <a href="https://yuvamehdi.me"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
